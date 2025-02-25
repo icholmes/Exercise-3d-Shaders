@@ -1,4 +1,4 @@
-# Project03 - JuicyBreakout
+# Project03-JuicyBreakout
 
 # Project Name
 
