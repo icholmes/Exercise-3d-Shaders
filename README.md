@@ -7,7 +7,24 @@ The final step adding "juicy" features to a simple brick-breaker game.
 # Implementation
 
 Built using Unity 2022.3.45f
-- turned in on time
+- Turned in on time (1)
+- Descriptive README (1)
+- No syntax errors (1)
+- No runtime errors (1)
+- 3 diff levels (2)
+- Score is tracked + endgame condition (2)
+- Main menu (1)
+- End-game screen (1)
+- Juicy features (8)
+    - Music
+    - SFX
+    - Comet trail
+    - Eyes on paddle
+    - Eyes follow action
+    - Background
+    - Particles
+    - Changing colors
+- Overall juiciness (2)
 
 # References
 
@@ -20,7 +37,6 @@ Built using Unity 2022.3.45f
 
 # Future Development
 
-Power-ups, etc.
 
 # Created by
 
