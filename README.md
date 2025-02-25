@@ -1,8 +1,8 @@
-# Exercise-3d-Shaders
+# Project03 - JuicyBreakout
 
-Exercise for MSCH-C220
+# Project Name
 
-The final step adding "juicy" features to a simple brick-breaker game.
+Context, date, description
 
 # Implementation
 
