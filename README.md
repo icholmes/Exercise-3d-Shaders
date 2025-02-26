@@ -25,7 +25,7 @@ Built using Unity 2022.3.45f
     - Eyes follow action
     - Background
     - Particles
-    - Changing the colors
+    - Changing the colors + incorporating my own sprites
     - + others!
 - Overall juiciness (2)
 
