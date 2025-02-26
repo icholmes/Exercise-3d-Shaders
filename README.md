@@ -1,8 +1,10 @@
 # Project03-JuicyBreakout
 
-# Project Name
+# Dessert Destroyer
 
-Context, date, description
+02/26/25
+
+Dessert Destoyer: A "juicy" brickbreaker in which the player attempts to destroy bits of candy with a donut in an everchanging dessert-filled landscape that progressively gets busier and busier with each level. Destroy all the candy before running out of lives!
 
 # Implementation
 
@@ -18,7 +20,7 @@ Built using Unity 2022.3.45f
 - Juicy features (8)
     - Music
     - SFX
-    - Comet trail
+    - Squeeze and stretch
     - Eyes on paddle
     - Eyes follow action
     - Background
