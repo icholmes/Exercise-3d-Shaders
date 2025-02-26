@@ -25,7 +25,8 @@ Built using Unity 2022.3.45f
     - Eyes follow action
     - Background
     - Particles
-    - Changing colors
+    - Changing the colors
+    - + others!
 - Overall juiciness (2)
 
 # References
@@ -39,6 +40,7 @@ Built using Unity 2022.3.45f
 
 # Future Development
 
+N/A
 
 # Created by
 
